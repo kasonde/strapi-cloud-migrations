@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_meta_data_contact_infos",
+  "info": {
+    "displayName": "ContactInfo",
+    "icon": "address-card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
